@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add You Cant Add Me to Any Group And Dont Try to Add Me Cause It Wont Work Lol 🤘
+You Can Get The Movies Easily With a Click Lol 🤘
 
 For More Details Click Help Button Below..
 @MovieWibe
